@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--<h1 align="center">Hi, I'm Le Xuan Que (Xiao Que) 👋</h1>
+<h1 align="center">Hi, I'm Le Xuan Que (Xiao Que) 👋</h1>
 
 <p align="center">
   Data Science undergraduate at International University, VNU-HCM<br/>
